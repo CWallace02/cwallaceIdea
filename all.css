@@ -5,6 +5,9 @@
     width: 50%;
 }
 
+.connect {
+    text-align: left;
+}
 
 .row {
     text-align: center;
@@ -17,6 +20,20 @@ h1 {
 
 footer {
     padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: #007bff;
+}
+.footAbout {
+    padding: 10px;   
+    text-align: center;
+    color: white;
+    background-color: #007bff;
+}
+
+.footSub {
+    padding: 60px;
+    height: fit-content;
     text-align: center;
     color: white;
     background-color: #007bff;
