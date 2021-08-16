@@ -32,18 +32,19 @@ footer {
     font-size: 1.5em;
 }
 .footAbout {
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
-    height: 110px;
+    height: 50px;
     width: 100%;
-    line-height: 100px;
+    line-height: 25px;
     font-size: 1.5em;
     padding: 10px;   
     text-align: center;
     color: white;
     background-color: #007bff;
 }
+
 
 .footSub {
     padding: 60px;
